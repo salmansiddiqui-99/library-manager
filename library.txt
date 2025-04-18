@@ -1,0 +1,1 @@
+[{"title": "Rich Dad Poor Dad", "author": "Robert Kiyosaki", "year": "1997", "genre": "Growth Mindset", "read": true}]
